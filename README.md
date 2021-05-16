@@ -2,7 +2,7 @@
 
 My name is Haessler but everyone calls me Haess. I am a network engineer who, after a sabbatical year, decided to switch to a career in software development that turns out to be the topic that I enjoyed the most during my years in college. To achieve this goal I choose Le Wagon's web development bootcamp, which I attended remotely due to the pandemic.
 
-During the 7 years prior to this transition in my career I have worked on projects that involved mission critical systems, the exposure to these high-paced environments allowed me to develop effective communication to work with other teams and also problem solving skills as a member of tier 3 support teams.
+During the 7 years prior to this transition in my career I have worked on projects that involved mission critical systems, the exposure to these high-paced environments allowed me to develop effective communication to collaborate with other teams and also problem solving skills as a member of tier 3 support teams.
 
 I am eager to find a position in the tech industry where I could bring all my skills together to continue improving and learning as a full stack developer. I am currently learning TDD concepts and the ReactJS ecosystem.
 
