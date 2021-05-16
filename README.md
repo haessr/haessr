@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Haessler, but everybody calls me *Haess*. I am a network engineer who, after a sabbatical year, decided to switch to a career in software development which happens to be the subject I most enjoyed during my years at university. To achieve this goal, I choose the Le Wagon web development bootcamp that I attended remotely due to the pandemic.
+My name is Haessler, but everybody calls me Haess. I am a network engineer who, after a sabbatical year, decided to switch to a career in software development which happens to be the subject I most enjoyed during my years at university. To achieve this goal, I choose the Le Wagon web development bootcamp that I attended remotely due to the pandemic.
 
 During the 7 years prior to this transition in my career I have worked on projects that involved mission critical systems, the exposure to these high-paced environments allowed me to develop effective communication to collaborate with other teams and also problem solving skills as a member of tier 3 support teams.
 
