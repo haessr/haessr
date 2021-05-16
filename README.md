@@ -6,7 +6,7 @@ During the 7 years prior to this transition in my career I have worked on projec
 
 I am eager to find a position in the tech industry where I could bring all my skills together to continue improving and learning as a full stack developer. I am currently learning TDD concepts and the ReactJS ecosystem.
 
-I am passionate about languages and during my free time I am learning to play the piano on my own.
+I am passionate about languages and during my free time I learn to play the piano on my own.
 
 <!--
 **haessr/haessr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
