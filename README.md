@@ -4,7 +4,7 @@ My name is Haessler, but everybody calls me Haess. I am a network engineer who, 
 
 During the 7 years prior to this transition in my career I have worked on projects that involved mission critical systems, the exposure to these high-paced environments allowed me to develop effective communication to collaborate with other teams and also problem solving skills as a member of tier 3 support teams.
 
-I am eager to find a position in the tech industry where I could bring all my skills together to continue improving and learning as a full stack developer. I am currently learning TDD concepts and the ReactJS ecosystem.
+I am eager to find a position in the tech industry where I could bring all my skills together to continue improving and learning as a software developer. I am currently learning TDD concepts and the ReactJS ecosystem.
 
 I am passionate about languages and during my free time I learn to play the piano on my own.
 
