@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Haessler, but everybody calls me Haess. I am a network engineer who, after a sabbatical year, decided to switch to a career in software development which happens to be the subject I most enjoyed during my years at university. To achieve this goal, I chose Le Wagon's web development bootcamp that I attended remotely due to the pandemic.
+My name is Haessler, but everybody calls me Haess.
+
+I am a network engineer who decided to switch to a career in software development.
 
 During the 7 years prior to this transition in my career I have worked on projects that involved mission critical systems, the exposure to these high-paced environments allowed me to develop effective communication to collaborate with other teams and also problem solving skills as a member of tier 3 support teams.
 
-I am eager to find a position in the tech industry where I could bring all my skills together to continue improving and learning as a software developer. I am currently learning TDD concepts and the ReactJS ecosystem.
-
-I am passionate about languages and during my free time I learn to play the piano on my own.
+When I'm not coding, I pass the time by playing piano and studying Portuguese.
 
 <!--
 **haessr/haessr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
