@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Haessler, but everybody calls me Haess.
+My name is Haessler, but everybody calls me Haess (like the avocado).
 
 I am a network engineer who decided to switch to a career in software development.
 
