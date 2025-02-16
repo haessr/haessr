@@ -1,12 +1,18 @@
 ### Hi there 👋
 
-My name is Haessler, but everybody calls me Haess.
+I’m Haess!
 
-I am a network engineer who decided to switch to a career in software development.
+As a Software Engineer, I specialize in Ruby on Rails, building scalable and high-performance systems. My work involves designing real-time features, optimizing backend processes, and leveraging DevOps best practices to ensure reliability and maintainability.
 
-During the 7 years prior to this transition in my career I have worked on projects that involved mission critical systems, the exposure to these high-paced environments allowed me to develop effective communication to collaborate with other teams and also problem solving skills as a member of tier 3 support teams.
+Beyond my full-time role, I enjoy taking on personal projects that push my creativity, challenge my skills, and allow me to explore new technologies and business models.
 
-When I'm not coding, I pass the time by playing piano and studying Portuguese.
+What I Bring to the Table:
+✅ Code Craftsmanship – Writing clean, efficient, and maintainable code
+✅ Backend Performance & Architecture – Focused on optimization and scalability
+✅ Collaborative Spirit – A strong believer in teamwork and feedback
+✅ Lifelong Learner – Always open to new tech and improving my craft
+
+Currently, I’m based in Spain under a digital nomad visa and always open to exciting opportunities, especially those that align with my skills and long-term growth. I enjoy working on challenging projects and collaborating with talented teams—let’s connect!
 
 <!--
 **haessr/haessr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
