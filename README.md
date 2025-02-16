@@ -6,12 +6,6 @@ As a Software Engineer, I specialize in Ruby on Rails, building scalable and hig
 
 Beyond my full-time role, I enjoy taking on personal projects that push my creativity, challenge my skills, and allow me to explore new technologies and business models.
 
-What I Bring to the Table:
-✅ Code Craftsmanship – Writing clean, efficient, and maintainable code
-✅ Backend Performance & Architecture – Focused on optimization and scalability
-✅ Collaborative Spirit – A strong believer in teamwork and feedback
-✅ Lifelong Learner – Always open to new tech and improving my craft
-
 Currently, I’m based in Spain under a digital nomad visa and always open to exciting opportunities, especially those that align with my skills and long-term growth. I enjoy working on challenging projects and collaborating with talented teams—let’s connect!
 
 <!--
